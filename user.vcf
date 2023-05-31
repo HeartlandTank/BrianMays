@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Selke;Jennifer ;;;
-FN: Jennifer  Selke 
+N:Mays;Brian ;;;
+FN: Brian  Mays 
 ORG:Heartand Tank Services;
-TITLE:Inspection Division Coordinator
-EMAIL;type=INTERNET;type=WORK;type=pref:jselke@heartlandtankservices.com
-TEL;type=WORK;type=VOICE:800 774 3230 *103
-TEL;CELL;VOICE:(405) 420-5444
+TITLE:Marketing Coordinator
+EMAIL;type=INTERNET;type=WORK;type=pref:bmays@heartlandtankservices.com
+TEL;type=WORK;type=VOICE:800 774 3230 *101
+TEL;CELL;VOICE:(405) 401-0257
 item1.ADR;type=WORK;type=pref:;;5200 S Hattie Ave;;;73129;Oklahoma City, OK
 item1.X-ABADR:sg
 item2.URL;type=pref:heartlandtankservices.com
